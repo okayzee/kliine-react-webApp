@@ -1,2 +1,2 @@
 # kliine-react-webApp
-Web App for Kliine
+Web app for Kliine
